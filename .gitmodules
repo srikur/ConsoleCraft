@@ -1,0 +1,24 @@
+[submodule "SrikurCHIP-8"]
+	path = SrikurCHIP-8
+	url = https://github.com/srikur/SrikurCHIP-8
+[submodule "SrikurGBC"]
+	path = SrikurGBC
+	url = https://github.com/srikur/SrikurGBC
+[submodule "SrikurGBA"]
+	path = SrikurGBA
+	url = https://github.com/srikur/SrikurGBA
+[submodule "SrikurNES"]
+	path = SrikurNES
+	url = https://github.com/srikur/SrikurNES
+[submodule "SrikurSNES"]
+	path = SrikurSNES
+	url = https://github.com/srikur/SrikurSNES
+[submodule "SrikurNDS"]
+	path = SrikurNDS
+	url = https://github.com/srikur/SrikurNDS
+[submodule "SrikurN64"]
+	path = SrikurN64
+	url = https://github.com/srikur/SrikurN64
+[submodule "SrikurPSX"]
+	path = SrikurPSX
+	url = https://github.com/srikur/SrikurPSX
